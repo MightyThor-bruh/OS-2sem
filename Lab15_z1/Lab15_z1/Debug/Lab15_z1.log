@@ -1,0 +1,6 @@
+﻿  Lab15_z1.cpp
+C:\Users\gaechka\source\repos\Lab15_z1\Lab15_z1\Lab15_z1.cpp(121): warning C4715: remWithShift: значение возвращается не при всех путях выполнения
+C:\Users\gaechka\source\repos\Lab15_z1\Lab15_z1\Lab15_z1.cpp(92): warning C4715: remFromEnd: значение возвращается не при всех путях выполнения
+C:\Users\gaechka\source\repos\Lab15_z1\Lab15_z1\Lab15_z1.cpp(40): warning C4715: addToEnd: значение возвращается не при всех путях выполнения
+C:\Users\gaechka\source\repos\Lab15_z1\Lab15_z1\Lab15_z1.cpp(72): warning C4715: addWithShift: значение возвращается не при всех путях выполнения
+  Lab15_z1.vcxproj -> C:\Users\gaechka\source\repos\Lab15_z1\Debug\Lab15_z1.exe
