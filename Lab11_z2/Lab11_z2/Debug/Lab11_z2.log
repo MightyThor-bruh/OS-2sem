@@ -1,0 +1,3 @@
+﻿  Lab11_z2.cpp
+C:\Users\gaechka\source\repos\Lab11_z2\Lab11_z2\Lab11_z2.cpp(17,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab11_z2.vcxproj -> C:\Users\gaechka\source\repos\Lab11_z2\Debug\Lab11_z2.exe

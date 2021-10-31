@@ -1,0 +1,7 @@
+﻿  Lab11_z1_.cpp
+C:\Users\gaechka\source\repos\Lab11_z1_\Lab11_z1_\Lab11_z1_.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\gaechka\source\repos\Lab11_z1_\Lab11_z1_\Lab11_z1_.cpp(38,8): warning C4101: PID: неиспользованная локальная переменная
+C:\Users\gaechka\source\repos\Lab11_z1_\Lab11_z1_\Lab11_z1_.cpp(75,8): warning C4101: processID: неиспользованная локальная переменная
+C:\Users\gaechka\source\repos\Lab11_z1_\Lab11_z1_\Lab11_z1_.cpp(70): warning C4172: возвращение адреса локальной или временной переменной : FindFileData
+Lab11_z1_.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl GetLastErrorAsString(void)" (?GetLastErrorAsString@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции "wchar_t * __cdecl findFile(wchar_t *,wchar_t *)" (?findFile@@YAPA_WPA_W0@Z).
+C:\Users\gaechka\source\repos\Lab11_z1_\Debug\Lab11_z1_.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
